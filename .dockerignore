@@ -1,0 +1,9 @@
+node_modules
+public
+dist
+build
+.git
+yarn.lock
+package-lock.json
+.cache
+.DS_Store
